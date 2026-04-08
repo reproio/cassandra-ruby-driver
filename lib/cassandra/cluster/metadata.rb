@@ -16,6 +16,8 @@
 # limitations under the License.
 #++
 
+require 'sorted_set'
+
 module Cassandra
   class Cluster
     # @private
